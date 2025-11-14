@@ -1,0 +1,23 @@
+=== ESTADÍSTICAS DEL GENOMA ENSAMBLADO ===
+
+Tamaño del genoma: 30000 pb
+
+Composición de bases:
+  A: 6419 (21,40%)
+  T: 6910 (23,03%)
+  G: 8665 (28,88%)
+  C: 8006 (26,69%)
+
+CONTENIDO G+C: 55,57%
+
+=== COMPARACIÓN CON Brucella suis ===
+Genoma completo B. suis (referencia NCBI):
+  Tamaño: ~3.3 Mb (3,315,175 pb)
+  %G+C: ~57.2%
+
+Fragmento ensamblado en este TP:
+  Tamaño: 30000 pb (~0,90% del genoma)
+  %G+C: 55,57%
+
+Diferencia en %G+C: 55,00%
+⚠ El %G+C difiere del reportado para B. suis

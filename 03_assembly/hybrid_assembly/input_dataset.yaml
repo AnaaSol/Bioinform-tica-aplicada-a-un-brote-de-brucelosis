@@ -1,0 +1,6 @@
+- "single reads":
+  - "/home/ana/Desktop/Set3.fq"
+  "type": "single"
+- "single reads":
+  - "/home/ana/Desktop/Brucelosis_TP_Integrador/03_assembly/sanger_contigs.fasta"
+  "type": "trusted-contigs"

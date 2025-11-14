@@ -1,0 +1,6 @@
+- "single reads":
+  - "/home/ana/Desktop/Brucelosis_TP_Integrador/03_assembly/hybrid_assembly/corrected/Set3.00.0_0.cor.fastq.gz"
+  "type": "single"
+- "single reads":
+  - "/home/ana/Desktop/Brucelosis_TP_Integrador/03_assembly/sanger_contigs.fasta"
+  "type": "trusted-contigs"

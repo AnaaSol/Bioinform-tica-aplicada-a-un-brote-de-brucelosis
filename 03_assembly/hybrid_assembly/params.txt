@@ -1,0 +1,41 @@
+Command line: /usr/lib/spades/bin/spades.py	-s	/home/ana/Desktop/Set3.fq	--trusted-contigs	/home/ana/Desktop/Brucelosis_TP_Integrador/03_assembly/sanger_contigs.fasta	-o	/home/ana/Desktop/Brucelosis_TP_Integrador/03_assembly/hybrid_assembly	
+
+System information:
+  SPAdes version: 3.13.1
+  Python version: 3.10.12
+  OS: Linux-6.8.0-87-generic-x86_64-with-glibc2.35
+
+Output dir: /home/ana/Desktop/Brucelosis_TP_Integrador/03_assembly/hybrid_assembly
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: single
+      left reads: not specified
+      right reads: not specified
+      interlaced reads: not specified
+      single reads: ['/home/ana/Desktop/Set3.fq']
+      merged reads: not specified
+    Library number: 2, library type: trusted-contigs
+      left reads: not specified
+      right reads: not specified
+      interlaced reads: not specified
+      single reads: ['/home/ana/Desktop/Brucelosis_TP_Integrador/03_assembly/sanger_contigs.fasta']
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /home/ana/Desktop/Brucelosis_TP_Integrador/03_assembly/hybrid_assembly/tmp
+  Threads: 16
+  Memory limit (in Gb): 15
+
