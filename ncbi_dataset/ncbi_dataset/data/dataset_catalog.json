@@ -1,0 +1,55 @@
+{
+"apiVersion": "V2",
+"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "data_summary.tsv",
+      "fileType": "DATA_TABLE",
+      "uncompressedLengthBytes": "550"
+    },
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT",
+      "uncompressedLengthBytes": "5641"
+    }
+  ]
+},{
+  "accession": "GCA_000007505.1",
+  "files": [
+    {
+      "filePath": "GCA_000007505.1/GCA_000007505.1_ASM750v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA",
+      "uncompressedLengthBytes": "3356743"
+    },
+    {
+      "filePath": "GCA_000007505.1/genomic.gtf",
+      "fileType": "GTF",
+      "uncompressedLengthBytes": "4085832"
+    },
+    {
+      "filePath": "GCA_000007505.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1165817"
+    }
+  ]
+},{
+  "accession": "GCF_000007505.1",
+  "files": [
+    {
+      "filePath": "GCF_000007505.1/GCF_000007505.1_ASM750v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA",
+      "uncompressedLengthBytes": "3356745"
+    },
+    {
+      "filePath": "GCF_000007505.1/genomic.gtf",
+      "fileType": "GTF",
+      "uncompressedLengthBytes": "5665926"
+    },
+    {
+      "filePath": "GCF_000007505.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1161198"
+    }
+  ]
+}]}
